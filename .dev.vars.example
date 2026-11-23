@@ -1,0 +1,5 @@
+# Cloudflare Pages local development secrets (copy to .dev.vars, NEVER commit .dev.vars)
+# Optional: Resend API key for real password reset emails (https://resend.com)
+RESEND_API_KEY=
+EMAIL_FROM=noreply@yourdomain.com
+APP_URL=http://localhost:3000

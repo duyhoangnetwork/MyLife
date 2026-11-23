@@ -1,0 +1,6 @@
+{
+  "name": "MY LIFE – Personal Manager",
+  "description": "Ứng dụng quản lý tài chính cá nhân, mục tiêu tiết kiệm VietQR và kế hoạch cuộc sống ưu tiên di động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
